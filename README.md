@@ -5,8 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gayatri-shinde17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gayatrishinde024@gmail.com) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+
 
 
 # 💻 Tech Stack:
@@ -34,7 +33,6 @@
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-%23EF7B4D.svg?style=flat&logo=argo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 
@@ -44,16 +42,12 @@
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
 ![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-%23FF9900.svg?style=flat&logo=amazoncloudwatch&logoColor=white)
 
-### 🌐 Networking
+### 🌐 Networking & 🔐 Security
 
 ![Amazon VPC](https://img.shields.io/badge/Amazon%20VPC-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
 ![Route 53](https://img.shields.io/badge/Route%2053-%23FF9900.svg?style=flat&logo=amazonroute53&logoColor=white)
 ![Load Balancers](https://img.shields.io/badge/Load%20Balancers-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
-
-### 🔐 Security & DevSecOps
-
 ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=flat&logo=amazoniam&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-%231904D8.svg?style=flat&logo=trivy&logoColor=white)
 ![Gitleaks](https://img.shields.io/badge/Gitleaks-%23000000.svg?style=flat&logo=gitleaks&logoColor=white)
 
 ### 🐧 Programming, Scripting & Systems
